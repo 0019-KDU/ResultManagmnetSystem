@@ -4,10 +4,10 @@
 
 The Result Management System in C# is a user-friendly software application designed to streamline and automate the process of managing and recording academic results in educational institutions, such as schools, colleges, and universities. This system provides a comprehensive solution for administrators, teachers, and students to efficiently manage and access academic performance data.
 
-![Result Management System](./assets/1c.png)
-![Result Management System](./assets/2c.png)
-![Result Management System](./assets/3c.png)
-![Result Management System](./assets/4c.png)
+![Result Management System](assets/1c.png)
+![Result Management System](assets/2c.png)
+![Result Management System](assets/3c.png)
+![Result Management System](assets/4c.png)
 
 
 ## Features
