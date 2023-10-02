@@ -44,18 +44,6 @@ The Result Management System in C# is a user-friendly software application desig
 
 [Include details on how to use the system, including any required commands or steps.]
 
-## Benefits
-
-- **Efficiency**: Simplify and automate academic result management, reducing manual effort and errors.
-
-- **Transparency**: Allow students and parents to access academic performance data, ensuring transparency and accountability.
-
-- **Data-Driven Decisions**: Enable educators to make informed decisions regarding curriculum improvements, student interventions, and teacher evaluations based on data insights.
-
-- **Time-Saving**: Automation of result entry and report generation saves time for teachers and administrators, allowing them to focus on educational activities.
-
-- **Improved Communication**: Automated notifications and alerts enhance communication between educational institutions, students, and parents.
-
 ## License
 
 [Specify the license for the system, e.g., MIT License.]
